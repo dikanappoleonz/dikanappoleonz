@@ -3,7 +3,7 @@
 <!-- Banner -->
 <!-- src=https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md#awesome-banners -->
 <p align="center">
-  <img alt="Programming Languages" width="900" src="https://bit.ly/banner-v1">
+  <img alt="Programming Languages" width="900" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUyMzg0NTIsIm5iZiI6MTcyNTIzODE1MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTAyVDAwNDkxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFkMTYzMGE3MTJiYzM2MTAwNDRiZTBjODhhMzRhMmM1YmVkMjAzMWM5ZDM2Y2ViZDA3MmUzZjUyZjZlOWZiYjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.EvBxvsusw5_fzlkdAnkRnYfUtGxBeO9J7Mi9CuWF-hw">
 </p>
 
 <!-- Created Typing Gif -->
