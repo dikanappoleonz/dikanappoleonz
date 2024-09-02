@@ -93,16 +93,16 @@
 <h4 align="center">⚡ Stats ⚡</h4>
 <p align="center">
   <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=dikanappoleonz&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=dikanappoleonz&show_icons=true&theme=algolia&locale=en&layout=compact"
         alt="dikaputra" />
 </p>
 
 <p align="center">&nbsp;
   <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=dikanappoleonz&show_icons=true&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=dikanappoleonz&theme=algolia&show_icons=true&locale=en"
         alt="dikaputra" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikanappoleonz&" alt="dikaputra" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikanappoleonz&theme=algolia&" alt="dikaputra" />
 </p>
