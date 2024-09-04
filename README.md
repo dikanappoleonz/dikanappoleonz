@@ -1,11 +1,5 @@
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
-<!-- Banner -->
-<!-- src=https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md#awesome-banners -->
-<p align="center">
-  <img alt="Programming Languages" width="900" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUyMzg0NTIsIm5iZiI6MTcyNTIzODE1MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTAyVDAwNDkxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFkMTYzMGE3MTJiYzM2MTAwNDRiZTBjODhhMzRhMmM1YmVkMjAzMWM5ZDM2Y2ViZDA3MmUzZjUyZjZlOWZiYjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.EvBxvsusw5_fzlkdAnkRnYfUtGxBeO9J7Mi9CuWF-hw">
-</p>
-
 <!-- Created Typing Gif -->
 <!-- src=https://readme-typing-svg.herokuapp.com -->
 <h5 align="center">
@@ -13,7 +7,8 @@
     src="https://readme-typing-svg.herokuapp.com/?font=Righteous&duration=4500&color=0071EF&width=500&height=40&center=true&lines=Hello+from+the+open-source+Universe!+🌏;I'm+Dika+Aditya+Putra+👋🏻;"/>
 </h5>
 
-<!-- Banner v2 -->
+<!-- Banner -->
+<!-- src=https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md#awesome-banners -->
 <p align="center">
   <img align="center" alt="Mario Pixel Programming" width="900" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </p>
@@ -90,19 +85,29 @@
 <hr>
 
 <!-- Stats -->
-<h4 align="center">⚡ Stats ⚡</h4>
+<h4 align="center">📈 GitHub Activity Graph:</h4>
+<table align="center">
+    <tr>
+        <td align="center"><a href="https://github.com/dikanappoleonz#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=dikanappoleonz&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/dikanappoleonz#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=dikanappoleonz&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/dikanappoleonz#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikanappoleonz&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/dikanappoleonz#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikanappoleonz&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/dikanappoleonz#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dikanappoleonz&theme=default"/></a><a href="https://github.com/dikanappoleonz#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dikanappoleonz&theme=tokyonight"/></a></td>
+    </tr>
+</table>
+
+
+<!--
 <p align="center">
   <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=dikanappoleonz&show_icons=true&theme=algolia&locale=en&layout=compact"
         alt="dikaputra" />
 </p>
-
 <p align="center">&nbsp;
   <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=dikanappoleonz&theme=algolia&show_icons=true&locale=en"
         alt="dikaputra" />
 </p>
-
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikanappoleonz&theme=algolia&" alt="dikaputra" />
-</p>
+</p> -->
