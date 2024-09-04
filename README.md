@@ -13,9 +13,14 @@
   <img align="center" alt="Mario Pixel Programming" width="900" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </p>
 
+## I'm a Network Ethusiast, Network Engineer, System Adminiastrator
+- I'm learning all there is
+- My hobby is exploring new things
+- Fun Fact: I like silence
+
 <!-- Profile Views Github -->
 <!-- src=https://github.com/antonkomarev/github-profile-views-counter -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dikanappoleonz&label=Profile%20views&color=0e75b6&style=flat-square" alt="dikaputra" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dikanappoleonz&label=Profile%20views&color=0e75b6&style=flat-square" alt="dikaputra" /></p>
 
 <!-- Contact Me -->
 <!-- src-color=https://www.colorhexa.com/ -->
