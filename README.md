@@ -93,11 +93,11 @@
 <h4 align="center">📈 GitHub Activity Graph:</h4>
 <table align="center">
     <tr>
-        <td align="center"><a href="https://github.com/dikanappoleonz#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=dikanappoleonz&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/dikanappoleonz#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=dikanappoleonz&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/dikanappoleonz#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikanappoleonz&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/dikanappoleonz#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikanappoleonz&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center"><a href="https://github.com/dikanappoleonz#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=dikanappoleonz&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/dikanappoleonz#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=dikanappoleonz&show_icons=true&theme=algolia&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/dikanappoleonz#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikanappoleonz&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/dikanappoleonz#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikanappoleonz&theme=algolia&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/dikanappoleonz#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dikanappoleonz&theme=default"/></a><a href="https://github.com/dikanappoleonz#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dikanappoleonz&theme=tokyonight"/></a></td>
+        <td align="center"><a href="https://github.com/dikanappoleonz#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dikanappoleonz&theme=default"/></a><a href="https://github.com/dikanappoleonz#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dikanappoleonz&theme=algolia"/></a></td>
     </tr>
 </table>
 
