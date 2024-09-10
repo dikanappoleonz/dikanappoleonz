@@ -55,6 +55,39 @@
       <br />Linux
     </td>
     <td align="center" width="96">
+      <a href="https://www.docker.com/">
+        <img
+          src="https://techstack-generator.vercel.app/docker-icon.svg"
+          width="65"
+          height="65"
+          alt="Docker"
+        />
+      </a>
+      <br />Docker
+    </td>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/">
+        <img
+          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+          width="65"
+          height="65"
+          alt="Git"
+        />
+      </a>
+      <br />Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://docs.ansible.com/">
+        <img
+          src="https://svgshare.com/i/19qS.svg"
+          alt="Ansible"
+          width="65"
+          height="65"
+        />
+      </a>
+      <br />Ansible
+    </td>
+    <td align="center" width="96">
       <a href="https://www.python.org">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -65,6 +98,20 @@
       </a>
       <br />Python
     </td>
+    <td align="center" width="96">
+      <a href="https://www.arduino.cc/">
+        <img
+          src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
+          alt="Arduino"
+          width="65"
+          height="65"
+        />
+      </a>
+      <br />Arduino
+    </td>
+  </tr>
+
+  <tr>
     </td>
     <td align="center" width="96">
       <a href="https://www.cisco.com/">
@@ -87,6 +134,39 @@
         />
       </a>
       <br />MikroTik
+    </td>
+      <td align="center" width="96">
+      <a href="https://ui.com/wifi">
+        <img
+          src="https://svgshare.com/i/19qb.svg"
+          alt="Ubiquiti"
+          width="65"
+          height="65"
+        />
+      </a>
+      <br />Ubiquiti
+    </td>
+      <td align="center" width="96">
+      <a href="https://www.ruijienetworks.com/">
+        <img
+          src="https://svgshare.com/i/19qu.svg"
+          alt="Ruijie"
+          width="65"
+          height="65"
+        />
+      </a>
+      <br />Ruijie
+    </td>
+      <td align="center" width="96">
+      <a href="https://www.ruijienetworks.com/">
+        <img
+          src="https://svgshare.com/i/19q2.svg"
+          alt="Huawei"
+          width="65"
+          height="65"
+        />
+      </a>
+      <br />Huawei
     </td>
   </tr>
 </table>
