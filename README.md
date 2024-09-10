@@ -13,10 +13,11 @@
   <img align="center" alt="Mario Pixel Programming" width="900" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </p>
 
-## I'm a Network Ethusiast, Network Engineer, System Adminiastrator
+<!-- Bio -->
+## I'm a Network Engineer, System Adminiastrator, Devops Engineer
 - I'm learning all there is
 - My hobby is exploring new things
-- Fun Fact: I like silence
+- I thrive in quietness
 
 <!-- Profile Views Github -->
 <!-- src=https://github.com/antonkomarev/github-profile-views-counter -->
@@ -41,7 +42,8 @@
 <!-- src=https://svgur.com/ -->
 ## Tools and Technologies ⚙️
 > Frameworks and technologies I've interacted with and want to master
-<table>
+<table align="center">
+<!-- #1 -->
   <tr>
     <td align="center" width="96">
       <a href="https://www.linux.org/">
@@ -144,6 +146,7 @@
     </td>
   </tr>
 
+<!-- #2 -->
   <tr>
     <td align="center" width="96">
       <a href="https://www.ruijienetworks.com/">
@@ -171,7 +174,7 @@
 </table>
 
 <!-- Stats -->
-<h4 align="center">📈 GitHub Activity Graph:</h4>
+## 📈 GitHub Activity Graph
 <table align="center">
     <tr>
         <td align="center"><a href="https://github.com/dikanappoleonz#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=dikanappoleonz&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/dikanappoleonz#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=dikanappoleonz&show_icons=true&theme=algolia&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
@@ -181,8 +184,6 @@
         <td align="center"><a href="https://github.com/dikanappoleonz#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dikanappoleonz&theme=default"/></a><a href="https://github.com/dikanappoleonz#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dikanappoleonz&theme=algolia"/></a></td>
     </tr>
 </table>
-
-
 <!--
 <p align="center">
   <img align="center"
