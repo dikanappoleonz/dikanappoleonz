@@ -109,10 +109,6 @@
       </a>
       <br />Arduino
     </td>
-  </tr>
-
-  <tr>
-    </td>
     <td align="center" width="96">
       <a href="https://www.cisco.com/">
         <img
@@ -124,7 +120,7 @@
       </a>
       <br />Cisco
     </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://mikrotik.com/">
         <img
           src="https://svgshare.com/i/19pz.svg"
@@ -135,7 +131,7 @@
       </a>
       <br />MikroTik
     </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://ui.com/wifi">
         <img
           src="https://svgshare.com/i/19qb.svg"
@@ -146,7 +142,10 @@
       </a>
       <br />Ubiquiti
     </td>
-      <td align="center" width="96">
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
       <a href="https://www.ruijienetworks.com/">
         <img
           src="https://svgshare.com/i/19qu.svg"
@@ -157,7 +156,7 @@
       </a>
       <br />Ruijie
     </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://www.ruijienetworks.com/">
         <img
           src="https://svgshare.com/i/19q2.svg"
