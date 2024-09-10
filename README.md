@@ -24,8 +24,8 @@
 
 <!-- Contact Me -->
 <!-- src-color=https://www.colorhexa.com/ -->
-<h3 align="center">Connect with Me:</h3>
-<p align="center">
+<h3 align="left">Connect with Me 🌐</h3>
+<p align="left">
   <!-- Discord -->
   <a href="https://discord.com/invite/3K5sD3T5"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
   <!-- Github -->
@@ -37,57 +37,59 @@
 </p>
 
 <!-- Hard Skill -->
-<h3 align="center">Languages & Network:</h3>
-<hr>
-<!-- Languages -->
-<h4 align="center">Programming Languages:</h4>
-<p align="center">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-        width="40" height="40" /> </a>
-</p>
-
 <!-- Convert to SVG -->
 <!-- src=https://svgur.com/ -->
-<!-- Network -->
-<h4 align="center">Networking:</h4>
-<p align="center">
-  <!-- MikroTik -->
-  <a href="https://mikrotik.com/" target="_blank" rel="noreferrer"> <img
-        src="https://svgshare.com/i/19pz.svg" alt="MikroTik"width="60" height="40" /> </a>
-  <!-- Cisco -->
-  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img
-        src="https://svgshare.com/i/19oC.svg" alt="Cisco"width="60" height="40" /> </a>
-  <!-- Ubiquiti -->
-  <a href="https://ui.com/wifi" target="_blank" rel="noreferrer"> <img
-        src="https://svgshare.com/i/19qb.svg" alt="Ubiquiti"width="60" height="40" /> </a>
-  <!-- Ruijie -->
-  <a href="https://www.ruijienetworks.com/" target="_blank" rel="noreferrer"> <img
-        src="https://svgshare.com/i/19qu.svg" alt="Ruijie"width="60" height="40" /> </a>
-  <!-- Huawei -->
-  <a href="https://e.huawei.com/en/solutions/enterprise-network" target="_blank" rel="noreferrer"> <img
-        src="https://svgshare.com/i/19q2.svg" alt="Huawei"width="60" height="40" /> </a>
-</p>
-
-<!-- Other -->
-<h4 align="center">Other:</h4>
-<p align="center">
-  <!-- Arduino -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="40" /> </a>
-  <!-- Ansible -->
-  <a href="https://docs.ansible.com/" target="_blank" rel="noreferrer"> <img
-            src="https://svgshare.com/i/19qS.svg" alt="ansible" width="60" height="40" /> </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="40" /> </a>
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="60" height="40" /> </a>
-</p>
-<hr>
+## Tools and Technologies ⚙️
+> Frameworks and technologies I've interacted with and want to master
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.linux.org/">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+          alt="Linux"
+          width="65"
+          height="65"
+        />
+      </a>
+      <br />Linux
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+          alt="Python"
+          width="65"
+          height="65"
+        />
+      </a>
+      <br />Python
+    </td>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.cisco.com/">
+        <img
+          src="https://svgshare.com/i/19oC.svg"
+          alt="Cisco"
+          width="65"
+          height="65"
+        />
+      </a>
+      <br />Cisco
+    </td>
+      <td align="center" width="96">
+      <a href="https://mikrotik.com/">
+        <img
+          src="https://svgshare.com/i/19pz.svg"
+          alt="MikroTik"
+          width="65"
+          height="65"
+        />
+      </a>
+      <br />MikroTik
+    </td>
+  </tr>
+</table>
 
 <!-- Stats -->
 <h4 align="center">📈 GitHub Activity Graph:</h4>
