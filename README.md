@@ -14,7 +14,7 @@
 </p>
 
 <!-- Bio -->
-## I'm a Network Engineer, System Adminiastrator, Devops Engineer
+## I'm a explorer of the IT world
 - I'm learning all there is
 - My hobby is exploring new things
 - I thrive in quietness
@@ -38,6 +38,8 @@
 </p>
 
 <!-- Hard Skill -->
+<!-- source-gif -->
+<!-- src=https://techstack-generator.vercel.app/ -->
 <!-- Convert to SVG -->
 <!-- src=https://svgur.com/ -->
 ## Tools and Technologies ⚙️
@@ -92,7 +94,7 @@
     <td align="center" width="96">
       <a href="https://www.python.org">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+          src="https://skillicons.dev/icons?i=python"
           alt="Python"
           width="65"
           height="65"
@@ -103,7 +105,7 @@
     <td align="center" width="96">
       <a href="https://www.arduino.cc/">
         <img
-          src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
+          src="https://skillicons.dev/icons?i=arduino"
           alt="Arduino"
           width="65"
           height="65"
@@ -175,6 +177,7 @@
 
 <!-- Stats -->
 ## 📈 GitHub Activity Graph
+> Every Commit Is a Step to Success!
 <table align="center">
     <tr>
         <td align="center"><a href="https://github.com/dikanappoleonz#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=dikanappoleonz&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/dikanappoleonz#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=dikanappoleonz&show_icons=true&theme=algolia&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
