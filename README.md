@@ -103,17 +103,6 @@
       <br />Python
     </td>
     <td align="center" width="96">
-      <a href="https://www.arduino.cc/">
-        <img
-          src="https://skillicons.dev/icons?i=arduino"
-          alt="Arduino"
-          width="65"
-          height="65"
-        />
-      </a>
-      <br />Arduino
-    </td>
-    <td align="center" width="96">
       <a href="https://www.cisco.com/">
         <img
           src="https://svgshare.com/i/19oC.svg"
@@ -187,6 +176,8 @@
         <td align="center"><a href="https://github.com/dikanappoleonz#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dikanappoleonz&theme=default"/></a><a href="https://github.com/dikanappoleonz#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dikanappoleonz&theme=algolia"/></a></td>
     </tr>
 </table>
+
+
 <!--
 <p align="center">
   <img align="center"
