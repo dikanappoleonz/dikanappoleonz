@@ -70,6 +70,17 @@
       <br />Docker
     </td>
     <td align="center" width="96">
+      <a href="https://kubernetes.io/id/">
+        <img
+          src="https://techstack-generator.vercel.app/kubernetes-icon.svg"
+          width="65"
+          height="65"
+          alt="Kubernetes"
+        />
+      </a>
+      <br />Kubernetes
+    </td>
+    <td align="center" width="96">
       <a href="https://git-scm.com/">
         <img
           src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
