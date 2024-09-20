@@ -181,7 +181,9 @@
 > Every Commit Is a Step to Success!
 <table align="center">
     <tr>
-        <td align="center"><a href="https://github.com/dikanappoleonz#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=dikanappoleonz&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/dikanappoleonz#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=dikanappoleonz&show_icons=true&theme=algolia&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center"><a href="https://github.com/dikanappoleonz#gh-light-mode-only"><img  src="https://github-readme-stats.vercel.app/api?username=dikanappoleonz&theme=algolia&show_icons=true&locale=en"
+        alt="dikaputra"/></a><a href="https://github.com/dikanappoleonz#gh-dark-mode-only"><img  src="https://github-readme-stats.vercel.app/api?username=dikanappoleonz&theme=algolia&show_icons=true&locale=en"
+        alt="dikaputra"/></a></td>
         <td rowspan="2" align="center"><a href="https://github.com/dikanappoleonz#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikanappoleonz&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/dikanappoleonz#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikanappoleonz&theme=algolia&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
